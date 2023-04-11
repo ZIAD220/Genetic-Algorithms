@@ -1,0 +1,14 @@
+op l TRI 0 0 50
+op m tri 0 50 100
+op h tri 50 100 100
+pdp l tri 0 0 50
+pdp m tri 0 50 100
+pdp h tri 50 100 100
+pydp l tri 0 0 50
+pydp m tri 0 50 100
+pydp h tri 50 100 100
+cp vl tri 0 0 25
+cp l tri 0 25 50
+cp m tri 25 50 75
+cp h tri 50 75 100
+cp vh tri 75 100 100
